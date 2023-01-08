@@ -1,0 +1,16 @@
+.btn{
+      padding: 10px;
+      border-radius: 7px;
+      border-color: rgb(255, 255, 255);
+      
+}
+/* .center {
+    display: grid;
+    justify-content: center;
+    align-items: center;
+     /* height: 200px;
+    border: 3px solid green;; */
+/* } */ 
+.choice{
+      color: rgb(255, 102, 130);
+}
